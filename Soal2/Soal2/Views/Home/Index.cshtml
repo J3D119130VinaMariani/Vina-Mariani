@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<center>
+    <div id="myDIV" class="header">
+        <h2>To Do List</h2>
+    </div>
+
+    <ul id="myUL">
+        <li>When the user clicks an item in the list, an alert box will be displayed showing the content of the item that was clicked</li>
+        <li>The text of the item which is clicked will turn bold.</li>
+        <li>When a new item is clicked the format from the first item will be removed (the first item will no longer be bold).</li>
+        <li>When the user hovers over an item, the item will be highlighted</li>
+        <li>The list should be centered on the page both horizontally and vertically</li>
+    </ul>
+</center>
+
+
+<style>
+    li:hover, h1:hover, a:hover {
+        background-color: yellow;
+    }
+</style>
+<script>
+    $(document).ready(function () {
+        $("#myUL").click(function () {
+            alert("Sukses")
+        })
+        $("#myUL").click(function () {
+            ("li").css('font-weight', 'bold')
+        })
+    })
+</script>

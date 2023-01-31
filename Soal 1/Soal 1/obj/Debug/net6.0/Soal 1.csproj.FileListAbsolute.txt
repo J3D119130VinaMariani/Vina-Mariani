@@ -1,0 +1,15 @@
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\bin\Debug\net6.0\Soal 1.exe
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\bin\Debug\net6.0\Soal 1.deps.json
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\bin\Debug\net6.0\Soal 1.runtimeconfig.json
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\bin\Debug\net6.0\Soal 1.dll
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\bin\Debug\net6.0\Soal 1.pdb
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.csproj.AssemblyReference.cache
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.AssemblyInfoInputs.cache
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.AssemblyInfo.cs
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.csproj.CoreCompileInputs.cache
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.dll
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\refint\Soal 1.dll
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.pdb
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\Soal 1.genruntimeconfig.cache
+E:\tugas vina\KERJA VINA!!!\PT AKASIA\Soal 1\Soal 1\obj\Debug\net6.0\ref\Soal 1.dll
